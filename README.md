@@ -128,3 +128,4 @@ Further readings about other mesh processing algorithms:
 
 Part of our code is inherited from [brown-cs-224-Mesh](https://github.com/brown-cs-224/Mesh-Stencil). We are grateful to the authors for releasing their code. 
 "# ACG-hw1" 
+"# ACG-HW1" 
