@@ -1,0 +1,5 @@
+D:/homework/hw2024-1-jq-zhang22-main/build/CMakeFiles/mesh_main.dir
+D:/homework/hw2024-1-jq-zhang22-main/build/CMakeFiles/edit_cache.dir
+D:/homework/hw2024-1-jq-zhang22-main/build/CMakeFiles/rebuild_cache.dir
+D:/homework/hw2024-1-jq-zhang22-main/build/assets/meshes/CMakeFiles/edit_cache.dir
+D:/homework/hw2024-1-jq-zhang22-main/build/assets/meshes/CMakeFiles/rebuild_cache.dir
